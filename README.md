@@ -24,19 +24,16 @@ Installation
 Clone this repository:
 
 bash
-Копировать код
 git clone https://github.com/MakazhanAlpamys/Optimized-Data-Processing-Framework.git
 cd Optimized-Data-Processing-Framework
 Install the required dependencies:
 
 bash
-Копировать код
 pip install -r requirements.txt
 Usage
 Run the main script:
 
 bash
-Копировать код
 python main.py
 Observe the performance results in the console output.
 
@@ -47,7 +44,6 @@ Here’s what you can expect:
 
 Console:
 
-Копировать код
 basic_sort took 0.5301 seconds
 threaded_sort took 0.2403 seconds
 dask_sort took 0.1809 seconds
